@@ -1,12 +1,14 @@
 using CommonConnector.Contracts;
 using DiscordConnector;
+using DiscordRichPresenceConnector;
 using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Configuration.AddUserSecrets<Program>();
 
 // Add services to the container.
-builder.Services.RegisterDiscordConnector();
+//builder.Services.RegisterDiscordConnector();
+builder.Services.RegisterDiscordRichPresenceConnector();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
