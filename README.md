@@ -1,1 +1,2 @@
-# MyMusicTracker
+# my-music-tracker
+A C#.Net tool that tracks currently playing songs on YouTube Music, Spotify, and Deezer, providing detailed listening statistics and insights, and publishing updates to social networks.
