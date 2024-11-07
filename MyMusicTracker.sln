@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMusicTracker", "MyMusicTracker.csproj", "{FB601B46-BE73-4CC9-B307-2A157F680907}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordConnector", "..\DiscordConnector\DiscordConnector.csproj", "{22281E1B-7769-4430-9067-78FF716B5533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonConnector", "..\CommonConnector\CommonConnector.csproj", "{B2BB9ECE-043F-4770-BEE7-DB2F96005644}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FB601B46-BE73-4CC9-B307-2A157F680907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB601B46-BE73-4CC9-B307-2A157F680907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB601B46-BE73-4CC9-B307-2A157F680907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22281E1B-7769-4430-9067-78FF716B5533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22281E1B-7769-4430-9067-78FF716B5533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22281E1B-7769-4430-9067-78FF716B5533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22281E1B-7769-4430-9067-78FF716B5533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BB9ECE-043F-4770-BEE7-DB2F96005644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BB9ECE-043F-4770-BEE7-DB2F96005644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BB9ECE-043F-4770-BEE7-DB2F96005644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BB9ECE-043F-4770-BEE7-DB2F96005644}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
