@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonConnector", "..\Commo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordRichPresenceConnector", "..\DiscordRichPresenceConnector\DiscordRichPresenceConnector.csproj", "{37AAD2BA-D2A4-4113-8579-0295DE7E60A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC1", "..\POC1\POC1.csproj", "{F2837476-E45C-48F2-A4DE-9054DBF5FBB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC2", "..\POC2\POC2.csproj", "{DC992F21-5CE9-418E-A0F5-BB3F51B5C6E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{37AAD2BA-D2A4-4113-8579-0295DE7E60A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37AAD2BA-D2A4-4113-8579-0295DE7E60A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37AAD2BA-D2A4-4113-8579-0295DE7E60A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2837476-E45C-48F2-A4DE-9054DBF5FBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2837476-E45C-48F2-A4DE-9054DBF5FBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2837476-E45C-48F2-A4DE-9054DBF5FBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2837476-E45C-48F2-A4DE-9054DBF5FBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC992F21-5CE9-418E-A0F5-BB3F51B5C6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC992F21-5CE9-418E-A0F5-BB3F51B5C6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC992F21-5CE9-418E-A0F5-BB3F51B5C6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC992F21-5CE9-418E-A0F5-BB3F51B5C6E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
